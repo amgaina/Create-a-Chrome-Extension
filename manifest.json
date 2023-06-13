@@ -1,0 +1,12 @@
+{
+    "manifest_version":3 ,
+    "version":"1.0",
+    "name" : "Lead Tracker",
+    "action":{
+        "default_icon": "USdollar.png",
+        "default_popup":"index.HTML"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
